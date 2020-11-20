@@ -1,0 +1,12 @@
+{
+  "name": "garymacpherson.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/garymacpherson/garymacpherson.github.io",
+  "author": "Gary MacPherson <garyedwardmacpherson@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/runtime": "^7.12.5",
+    "gatsby-cli": "^2.14.0"
+  }
+}
